@@ -1,0 +1,26 @@
+{
+    "name": "Neonnite Crosskey Pack",
+    "packages": [
+        {
+            "name": "",
+            "author": "Neonnite",
+            "game_name": "A Link to the Past Randomizer",
+            "version": "1.0",
+            "flags": [ "map", "pins", "chathud", "autotracker" ],
+            "required_app_version": "2.3.8.6",
+            "uid": "Alttpr_Entrance_neonnite",
+            "link": "https://github.com/Neonnite1763/Alttpr_Entrance_neonnite/files/5356406/alttpr_entrance_neonnite.zip",
+            "documentation_url": "https://github.com/Neonnite1753/Alttpr_Entrance_neonnite/blob/main/README.md",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "flags": [ "map", "pins", "chathud", "autotracker" ]
+                },
+                {
+                    "name": "Keysanity",
+                    "flags": [ "map", "pins", "chathud", "autotracker" ]
+                }              
+            ]
+        }
+    ]
+}
