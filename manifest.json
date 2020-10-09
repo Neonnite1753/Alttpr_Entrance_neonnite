@@ -1,0 +1,16 @@
+﻿{
+  "name": "Alttpr_Entrance_Neonnite",
+  "game_name": "A Link to the Past Randomizer",
+  "platform": "snes",
+  "package_version": "1.0",
+  "package_uid": "alttpr_entrance_neonnite",
+  "author": "Neonnite",
+  "variants": {
+    "standard": {
+      "display_name": "Standard Map Tracker"
+    },
+    "keysanity": {
+      "display_name": "Keysanity Map Tracker"
+    }
+  }
+}

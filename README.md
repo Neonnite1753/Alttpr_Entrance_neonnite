@@ -1,4 +1,3 @@
-# Alttpr_Entrance_neonnite
 This is a Pack for Entrance Randomizer or Crosskeys
 
 Each Location has a capture item that becomes a Badge (small image on the map) when Captured.
@@ -30,4 +29,3 @@ Credit for the base of the pack goes to @Emosaru, @ninban and @fylan.
 
 My part in this was combining all of this into a functional pack.
 If you have any issues or questions you can find me @Neonnite or any of the listed above in the EmoTracker discord.
-
