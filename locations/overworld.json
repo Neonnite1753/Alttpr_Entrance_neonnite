@@ -3426,6 +3426,15 @@
                   "ddm_floating,mirror"
                 ],
                 "item_count": 1
+              },
+              {
+                "name": "Shuffled Location",
+                "short_name": "S Loc",
+                "chest_unopened_img": "images/door_closed.png",
+                "chest_opened_img": "images/door_open.png",
+                "capture_item":true,
+                "item_count": 1,
+                "hosted_item": "dm_east_top"
               }
             ],
             "map_locations": [

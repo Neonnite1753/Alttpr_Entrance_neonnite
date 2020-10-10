@@ -31,7 +31,7 @@ CaptureBadgeSections = {
 
     --Format: 
     --"@Title of Location/Name of Section with Capture Item"
-
+    "@Master Sword Pedestal/Pedestal",
     "@Lumberjack House/Shuffled Location",
     "@Lumberjack Cave/Shuffled Location",
     "@Lumberjack Cave/Cave",
@@ -145,9 +145,11 @@ CaptureBadgeSections = {
     "@Death Mountain Shop/Shuffled Location",
     "@Super-Bunny Cave Top/Shuffled Location",
     "@Hookshot Cave/Shuffled Location",
+    "@Hookshot Cave Top/Shuffled Location",
     "@TR Ledge Left/Shuffled Location",
     "@TR Safety Door/Shuffled Location",
     "@Floating Island/Island",
+    "@Floating Island/Shuffled Location",
     "@Castle Main Entrance/Shuffled Location",
     "@Sanctuary/Shuffled Location",
     "@Sanctuary Drop/Shuffled Location",
