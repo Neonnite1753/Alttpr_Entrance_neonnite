@@ -541,6 +541,13 @@
   },
 
   {
+    "name": "Mimic Cave",
+    "type": "toggle",
+    "img": "images/Capture/CapMimic.png",
+    "codes": "cap_mimic"
+  },
+
+  {
     "name": "Spectical Rock Upper",
     "type": "toggle",
     "img": "images/Capture/CapSpecUp.png",
