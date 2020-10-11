@@ -63,6 +63,7 @@ CaptureBadgeSections = {
     "@Castle Left Entrance/Shuffled Location",
     "@Castle Right Entrance/Shuffled Location",
     "@Link's House/Shuffled Location",
+    "@Central Bonk Rocks/Shuffled Location",
     "@Dark Trees Fairy Cave/Shuffled Location",
     "@Dark Witch's Hut/Shuffled Location",
     "@Dark Flute Spot 5/Shuffled Location",
